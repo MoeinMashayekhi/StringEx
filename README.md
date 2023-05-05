@@ -1,1 +1,1 @@
-# StringEx
+# StringsEx
