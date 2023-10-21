@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "StringsEX", "StringsEX\StringsEX.pyproj", "{E84EFA06-C5B3-41BE-9288-E5853D1BCC26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E84EFA06-C5B3-41BE-9288-E5853D1BCC26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E84EFA06-C5B3-41BE-9288-E5853D1BCC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3735A94-50D7-4679-A44E-F5121B86F47F}
+	EndGlobalSection
+EndGlobal
